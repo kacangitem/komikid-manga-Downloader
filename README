@@ -9,3 +9,5 @@ kmdown adalah script untuk mengunduh manga-manga berbahasa indonesia pada situs 
 	kmanga.py -m Naruto -c 500-550
 4. Download chapter terbaru
 	kmanga.py -m Naruto -t
+
+Untuk menggunakan script ini membutuhkan versi python mininal 2.6 dan module BeautifulSoup
