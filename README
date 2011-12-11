@@ -1,0 +1,11 @@
+kmangadownloader adalah script python yang kegunaannya adalah untuk mengunduh manga - manga yang ada di situs komikid.com, beberapa fitur yang 
+
+kmdown adalah script untuk mengunduh manga-manga berbahasa indonesia pada situs komikid.com, contoh penggunaan script ini:
+1. Download semua chapter pada manga Naruto
+	kmanga.py -m Naruto
+2. Download chapter hanya chapter 500
+	kmanga.py -m Naruto -c 500
+3. Download chapter dari 500 hingga 550
+	kmanga.py -m Naruto -c 500-550
+4. Download chapter terbaru
+	kmanga.py -m Naruto -t
